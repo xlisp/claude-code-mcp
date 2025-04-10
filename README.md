@@ -1,3 +1,14 @@
+# How to design one claude-code-mcp?
+
+* Code generation and editing
+* Code review and analysis
+* Debugging and troubleshooting
+* File system operations
+* Shell command execution
+* Project exploration and understanding
+
+---
+
 # Claude Code MCP
 
 Claude Code MCP is an implementation of [Claude Code](https://gist.github.com/transitive-bullshit/487c9cb52c75a9701d312334ed53b20c) as a [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server. This project allows you to use Claude Code's powerful software engineering capabilities through the standardized MCP interface.
